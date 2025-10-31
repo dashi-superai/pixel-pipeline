@@ -1,6 +1,2 @@
-# Python 
-venv/ 
-__pycache__/ 
-*.py[cod] 
-*$py.class 
-.env 
+# Exclude setup script
+setup-git.bat
