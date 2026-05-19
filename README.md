@@ -11,6 +11,7 @@ Pixel Pipeline is a desktop application that helps you refine image datasets for
 
 ### Complete Image Dataset Refinement Workflow
 
+
 - **Image Similarity Detection**: Remove duplicates and visually similar images
   - Perceptual hash for exact duplicates
   - VGG16-based similarity detection for visually similar images
